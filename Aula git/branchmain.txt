@@ -1,0 +1,2 @@
+git stash
+modificando arquivo
